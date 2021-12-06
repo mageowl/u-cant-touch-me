@@ -1,0 +1,9 @@
+body {
+	display: flex;
+}
+
+span {
+	margin: auto;
+	font-size: large;
+	font-family: "Times New Roman", Times, serif;
+}
